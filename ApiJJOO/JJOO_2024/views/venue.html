@@ -26,14 +26,13 @@
 
         li {
 
-            margin: 15px 0;
+margin: 10px 0;
 
-            padding: 20px;
+padding: 15px;
 
-            border-radius: 5px;
+border-radius: 5px;
 
-        }
-
+}
 
 
 
@@ -83,12 +82,12 @@
 
 
 
-        header {
+         header {
             background-color: #333;
             color: white;
             padding: 10px 0;
             text-align: center;
-
+            /* Alinea todo el texto del encabezado al centro */
         }
 
         header img {
@@ -149,6 +148,11 @@
             color: #000;
             font-weight: bold;
             text-transform: uppercase;
+        }
+        .container img {
+            width: 100%; /* Ajusta el ancho al 100% del contenedor padre */
+            height: 200%; /* Ajusta la altura automáticamente para mantener la proporción de la imagen */
+            object-fit: cover; /* Asegura que la imagen cubra todo el espacio disponible, recortándola si es necesario */
         }
 
         .carousel-item img {

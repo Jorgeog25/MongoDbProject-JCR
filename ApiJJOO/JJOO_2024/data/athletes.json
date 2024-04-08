@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Trayvon Bromell",
     "country": "United States of Ame",
-    "team": null,
+     
     "age": 28,
     "gender": "Male",
     "modality": "100 Meters",
@@ -15,7 +15,7 @@
     "id": 2,
     "name": "Akani Simbine",
     "country": "South Africa",
-    "team": null,
+     
     "age": 30,
     "gender": "Male",
     "modality": "100 Meters",
@@ -27,7 +27,7 @@
     "id": 3,
     "name": "Ronnie Baker",
     "country": "United States of Ame",
-    "team": null,
+     
     "age": 30,
     "gender": "Male",
     "modality": "100 Meters",
@@ -39,7 +39,7 @@
     "id": 4,
     "name": "Andre De Grasse",
     "country": "Canada",
-    "team": null,
+     
     "age": 29,
     "gender": "Male",
     "modality": "100 Meters",
@@ -51,7 +51,7 @@
     "id": 5,
     "name": "Juan Miguel Echevarría",
     "country": "Cuba",
-    "team": null,
+     
     "age": 25,
     "gender": "Male",
     "modality": "Long jump",
@@ -63,7 +63,7 @@
     "id": 6,
     "name": "Miltiadis Tentoglou",
     "country": "Greece",
-    "team": null,
+     
     "age": 26,
     "gender": "Male",
     "modality": "Long jump",
@@ -75,7 +75,7 @@
     "id": 7,
     "name": "Thobias Montler",
     "country": "Sweden",
-    "team": null,
+     
     "age": 28,
     "gender": "Male",
     "modality": "Long jump",
@@ -87,7 +87,7 @@
     "id": 8,
     "name": "Jeff Henderson",
     "country": "United States of Ame",
-    "team": null,
+     
     "age": 35,
     "gender": "Male",
     "modality": "Long jump",
@@ -99,7 +99,7 @@
     "id": 9,
     "name": "Sarah Sjöström",
     "country": "Sweden",
-    "team": null,
+     
     "age": 30,
     "gender": "Female",
     "modality": "100 metre freestyle",
@@ -111,7 +111,7 @@
     "id": 10,
     "name": "Cate Campbell",
     "country": "Australia",
-    "team": null,
+     
     "age": 31,
     "gender": "Female",
     "modality": "100 metre freestyle",
@@ -123,7 +123,7 @@
     "id": 11,
     "name": "Emma McKeon",
     "country": "Australia",
-    "team": null,
+     
     "age": 29,
     "gender": "Female",
     "modality": "100 metre freestyle",
@@ -135,7 +135,7 @@
     "id": 12,
     "name": "Penny Oleksiak",
     "country": "Canada",
-    "team": null,
+     
     "age": 23,
     "gender": "Female",
     "modality": "100 metre freestyle",
@@ -147,7 +147,7 @@
     "id": 13,
     "name": "Federica Pellegrini",
     "country": "Italy",
-    "team": null,
+     
     "age": 35,
     "gender": "Female",
     "modality": "100 metre freestyle",
@@ -159,7 +159,7 @@
     "id": 14,
     "name": "Liu Yang",
     "country": "China",
-    "team": null,
+     
     "age": 29,
     "gender": "Male",
     "modality": "Rings",
@@ -171,7 +171,7 @@
     "id": 15,
     "name": "Ibrahim Çolak",
     "country": "Türkiye",
-    "team": null,
+     
     "age": 29,
     "gender": "Male",
     "modality": "Rings",
@@ -183,7 +183,7 @@
     "id": 16,
     "name": "Arthur Zaneti",
     "country": "Brazil",
-    "team": null,
+     
     "age": 33,
     "gender": "Male",
     "modality": "Rings",
@@ -195,7 +195,7 @@
     "id": 17,
     "name": "Eleftherios Petrounias",
     "country": "Greece",
-    "team": null,
+     
     "age": 33,
     "gender": "Male",
     "modality": "Rings",
@@ -207,7 +207,7 @@
     "id": 18,
     "name": "Simon Billes",
     "country": "United States of Ame",
-    "team": null,
+     
     "age": 27,
     "gender": "Female",
     "modality": "Vault",
@@ -219,7 +219,7 @@
     "id": 19,
     "name": "Rebeca Andrade",
     "country": "Brazil",
-    "team": null,
+     
     "age": 24,
     "gender": "Female",
     "modality": "Vault",
@@ -231,7 +231,7 @@
     "id": 20,
     "name": "Jade Carey",
     "country": "United States of Ame",
-    "team": null,
+     
     "age": 23,
     "gender": "Female",
     "modality": "Vault",
@@ -243,7 +243,7 @@
     "id": 21,
     "name": "Yeo Seo-jeong",
     "country": "South Korea",
-    "team": null,
+     
     "age": 22,
     "gender": "Female",
     "modality": "Vault",
@@ -255,10 +255,10 @@
     "id": 22,
     "name": "Novak Djokovic\r\n",
     "country": "Serbia",
-    "team": null,
+     
     "age": 36,
     "gender": "Male",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": "24 Grand Slam, 12 runner-up Grand Slam, 1 Olympic bronze\r\n",
     "picture": "https://d3g9pb5nvr3u7.cloudfront.net/authors/56f1e1527b8cbbc0180475a1/663355019/256.jpg"
@@ -267,10 +267,10 @@
     "id": 23,
     "name": "Stefanos Tsitsipas\r\n",
     "country": "Greece",
-    "team": null,
+     
     "age": 25,
     "gender": "Male",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": " 2 runner-up Grand Slam\r\n",
     "picture": "https://images.sportschau.de/image/dadec6ae-9c0c-44b9-934e-cdf1c53d1530/AAABhf0YeXk/AAABjcWey4U/1x1-256/tsitsipas-enttaeuscht-100.jpg"
@@ -279,10 +279,10 @@
     "id": 24,
     "name": "Carlos Alcaraz\r\n",
     "country": "Spain",
-    "team": null,
+     
     "age": 20,
     "gender": "Male",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": " 2 Grand Slam\r\n",
     "picture": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/01/18/alcaraz-open-australia-k3LE-U2101276944658TsH-1200x840@Las%20Provincias.jpg"
@@ -291,10 +291,10 @@
     "id": 25,
     "name": "Alexander Zverev\r\n",
     "country": "Germany",
-    "team": null,
+     
     "age": 26,
     "gender": "Male",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": " 1 runner-up Grand Slam, 1 gold at the Olympics\r\n",
     "picture": "https://images.sportschau.de/image/82e4204f-8b87-4cd0-b0d3-25f2f6ff08e7/AAABjno8XOU/AAABjcWe3Cg/20x9-1280/alexander-zverev-atp-masters-100.webp"
@@ -303,10 +303,10 @@
     "id": 26,
     "name": "Naomi Osaka",
     "country": "Japan",
-    "team": null,
+     
     "age": 26,
     "gender": "Female",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": "4 Grand Slams",
     "picture": "https://images.sportschau.de/image/059f3c67-deee-40b9-b6ef-f1655e82401c/AAABjM30--U/AAABjcWe3Cg/20x9-1280/naomi-osaka-brisbane-100.webp"
@@ -315,34 +315,34 @@
     "id": 27,
     "name": "Aryna Sabalenka",
     "country": "Belarus",
-    "team": null,
+     
     "age": 25,
     "gender": "Female",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": "4 Grand Slams, 1 runner-up Grand Slam",
-    "picture": "https://images.sportschau.de/image/aaba0950-a8fc-4677-afa7-865c1a5df14e/AAABiGJB7P4/AAABjcWe3Cg/20x9-1280/dpa-marta-kostjuk-l-geht-an-aryna-sabalenka-vorbei-ohne-den-obligatorischen-handschlag-100.webp"
+    "picture": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/v1705144396/primary/a4q1oegn4pbhc9w9rmti.png"
   },
   {
     "id": 28,
     "name": "Iga Swiatek",
     "country": "Poland",
-    "team": null,
+     
     "age": 22,
     "gender": "Female",
-    "modality": "Single tenis",
+    "modality": "Single tennis",
     "medals": 0,
     "record": "4 Grand Slams, 1 runner-up Grand Slam",
-    "picture": "https://images.sportschau.de/image/b3b53da3-e97e-403d-bb65-9b6072755ebf/AAABgyld6AA/AAABjcWe3Cg/20x9-1280/iga-swaitek-gewinnt-us-open-100.webp"
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvjcJViciWzPlgaJPMScgLumIVY3vjZcOCygerBCODg&s.png"
   },
   {
     "id": 30,
     "name": "Lutalo Muhammad",
     "country": "United Kingdom",
-    "team": null,
+     
     "age": 32,
     "gender": "Male",
-    "modality": "Single fight +80",
+    "modality": "Single fight 80",
     "medals": 0,
     "record": "1 gold, 1 silver, 3 bronzes",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ymiEiZC2LAWO5PZic4OSBxMJXlpo3Mi1wJZ_73XpMg&s.png"
@@ -351,10 +351,10 @@
     "id": 31,
     "name": "Cha Dong-min",
     "country": "South Korea",
-    "team": null,
+     
     "age": 37,
     "gender": "Male",
-    "modality": "Single fight +80",
+    "modality": "Single fight 80",
     "medals": 0,
     "record": "2 golds, 1 silver, 1 bronze",
     "picture": "https://www.taekwondodata.com/images/persons/450/12672_01_01.jpg"
@@ -363,10 +363,10 @@
     "id": 32,
     "name": "Servet Tazwgül",
     "country": "Türkiye",
-    "team": null,
+     
     "age": 35,
     "gender": "Male",
-    "modality": "Single fight +80",
+    "modality": "Single fight 80",
     "medals": 0,
     "record": "8 gold, 2 bronzes",
     "picture": "https://www.taekwondodata.com/images/persons/450/11834_02_02.jpg"
@@ -375,10 +375,10 @@
     "id": 33,
     "name": "Joel González",
     "country": "Spain",
-    "team": null,
+     
     "age": 34,
     "gender": "Male",
-    "modality": "Single fight +80",
+    "modality": "Single fight 80",
     "medals": 0,
     "record": "5 golds, 1 silver, 3 bronzes",
     "picture": "https://e00-xlk-ue-marca.uecdn.es/uploads/2023/11/21/16236670205575.jpeg"
@@ -387,7 +387,7 @@
     "id": 35,
     "name": "Jade Jones",
     "country": "Great Britain",
-    "team": null,
+     
     "age": 31,
     "gender": "Female",
     "modality": "Single fight -69",
@@ -399,7 +399,7 @@
     "id": 36,
     "name": "Wu Jingyu",
     "country": "China",
-    "team": null,
+     
     "age": 37,
     "gender": "Female",
     "modality": "Single fight -69",
@@ -411,7 +411,7 @@
     "id": 37,
     "name": "Bianca Walkden",
     "country": "Great Britain",
-    "team": null,
+     
     "age": 32,
     "gender": "Female",
     "modality": "Single fight -69",
@@ -423,7 +423,7 @@
     "id": 38,
     "name": "Kim So-hui",
     "country": "South Korea",
-    "team": null,
+     
     "age": 30,
     "gender": "Female",
     "modality": "Single fight -69",
@@ -435,7 +435,7 @@
     "id": 39,
     "name": "Mikel Landa",
     "country": "Spain",
-    "team": null,
+     
     "age": 34,
     "gender": "Male",
     "modality": "Single route",
@@ -447,7 +447,7 @@
     "id": 40,
     "name": "Santiago Buitrago",
     "country": "Colombia",
-    "team": null,
+     
     "age": 24,
     "gender": "Male",
     "modality": "Single route",
@@ -459,7 +459,7 @@
     "id": 41,
     "name": "Richard Carapaz",
     "country": "Ecuador",
-    "team": null,
+     
     "age": 30,
     "gender": "Male",
     "modality": "Single route",
@@ -471,7 +471,7 @@
     "id": 42,
     "name": "Thomas Pidcock",
     "country": "Great Britain",
-    "team": null,
+     
     "age": 24,
     "gender": "Male",
     "modality": "Single route",
@@ -483,7 +483,7 @@
     "id": 43,
     "name": "Primoz Roglic",
     "country": "Slovenia",
-    "team": null,
+     
     "age": 34,
     "gender": "Male",
     "modality": "Time Trial Route",
@@ -495,7 +495,7 @@
     "id": 44,
     "name": "Remco Evenepoel",
     "country": "Belgium",
-    "team": null,
+     
     "age": 24,
     "gender": "Male",
     "modality": "Time Trial Route",
@@ -507,7 +507,7 @@
     "id": 45,
     "name": "Filippo Ganna",
     "country": "Italy",
-    "team": null,
+     
     "age": 27,
     "gender": "Male",
     "modality": "Time Trial Route",
@@ -519,7 +519,7 @@
     "id": 46,
     "name": "Joshua Tarling",
     "country": "Great Britain",
-    "team": null,
+     
     "age": 20,
     "gender": "Male",
     "modality": "Time Trial Route",
